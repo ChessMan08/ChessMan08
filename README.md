@@ -1,17 +1,15 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhinav Sharma</h1>
 <h3 align="center">A passionate AI and ML enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/205964/screenshots/6002888/media/ae564f058f5acd9519741ad979728004.gif">
-
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/205964/screenshots/6002888/media/ae564f058f5acd9519741ad979728004.gif")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chessman08&label=Profile%20views&color=0e75b6&style=flat" alt="chessman08" /> </p>
 
-- 🔭 I’m currently working on **Generative AI in Healthcare**
+- 🔭 I’m currently working on **Generative AI in HealthCare**
 
 - 🌱 I’m currently learning **Data Analytics with Python**
 
-- 💬 Ask me about **Artificial Intelligence**
+- 💬 Ask me about **Artificial Intellignece**
 
 - 📫 How to reach me **abhisharma.dhaka@gmail.com**
 
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chessman08&show_icons=true&locale=en&layout=compact" alt="chessman08" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chessman08&show_icons=true&locale=en" alt="chessman08" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chessman08&" alt="chessman08" /></p>
