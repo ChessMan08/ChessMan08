@@ -1,7 +1,7 @@
 [![MasterHead](https://images.squarespace-cdn.com/content/v1/60479868292a5d29e69ac6b9/d2f479f8-2005-43ae-bb36-e90333fa8f19/Future_of_Artificial_Intelligence.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Abhinav Sharma</h1>
 <h3 align="center">A passionate AI and ML enthusiast</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/205964/screenshots/6002888/media/ae564f058f5acd9519741ad979728004.gif")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/205964/screenshots/6002888/media/ae564f058f5acd9519741ad979728004.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chessman08&label=Profile%20views&color=0e75b6&style=flat" alt="chessman08" /> </p>
 
