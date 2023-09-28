@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/abhinav-sharma" target="blank"><img align="center" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="abhinav-sharma" height="38" width="38" /></a>
+<a href="https://linkedin.com/in/abhinav-sharma-b03939278" target="blank"><img align="center" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" alt="abhinav-sharma" height="38" width="38" /></a>
 <a href="https://instagram.com/_ig_abhisharma_" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg" alt="_ig_abhisharma_" height="40" width="40" /></a>
 </p>
 
